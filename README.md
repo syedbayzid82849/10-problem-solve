@@ -1,19 +1,3 @@
-# JavaScript Problem-Solving Task
+# JavaScript Problem-Solving
 
-This repository contains solutions to the **JavaScript Problem-Solving**. All problems are solved using **plain JavaScript** without any frameworks or advanced libraries.
-
----
-
-## 📝 Assignment Details
-
-**Rules and Regulations:**
-
-. Solve all 10 problems.
-. Use only plain JavaScript.
-. Do your own logic to solve the problems — copying or AI-generated answers may lead to disqualification.
-. Focus more on your logic and explanation than perfect code.
-. Create a public GitHub repository and upload your code here.
-
----
-
-## 💻 Problems and Solutions
+# JavaScript Problem-Solving Task This repository contains solutions to the **JavaScript Problem-Solving**. All problems are solved using **plain JavaScript** without any frameworks or advanced libraries. --- ## 📝 Assignment Details **Rules and Regulations:** . Solve all 10 problems. . Use only plain JavaScript. . Do your own logic to solve the problems — copying or AI-generated answers may lead to disqualification. . Focus more on your logic and explanation than perfect code. . Create a public GitHub repository and upload your code here. --- ## 💻 Problems and Solutions# 10-problem-solve
